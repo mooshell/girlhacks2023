@@ -7,7 +7,7 @@ import time
 st.title("GetSpaced: Explore with Math")
 st.button("Cool AI Stuff if your bored", type="primary") 
 if st.button('Click me!'): 
-    st("Go to the next screen!")
+    st.write("Go to the next screen!")
 else: 
     st.write("Okay bye!")
 progress_bar = st.progress(0)
