@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 print("hello world again")
-
+print("dom is so sad")
 print("hellow ")
 def getAcc(pos, mass, G, softening):
     """
