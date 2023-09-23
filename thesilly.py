@@ -22,5 +22,6 @@ for i in range(100):
     # Pretend we're doing some computation that takes time.
     time.sleep(0.1)
 
+print("H")
 status_text.text('Done!')
 st.balloons()
