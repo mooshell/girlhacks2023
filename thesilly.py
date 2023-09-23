@@ -3,7 +3,7 @@ import pandas as pd
 import time 
 
 
-
+print("hellow ")
 def getAcc( pos, mass, G, softening ):
 	"""
     Calculate the acceleration on each particle due to Newton's Law 
